@@ -1,0 +1,2 @@
+defmodule RestApi do
+end
